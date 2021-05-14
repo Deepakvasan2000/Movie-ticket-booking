@@ -1,0 +1,67 @@
+body{
+			background-image: url('de2.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-position: center;
+			background-size: cover;
+		}
+		h1{
+			float: left;
+			margin: 200px 50px 0px 0px;
+			font-family: Arial Narrow ;
+			color: white;
+		}
+		h2{
+			float: right;
+			margin: 0px 400px 0px 0px;
+			font-family:  Brush Script MT ;
+			color: white;
+		}
+		table{
+			font-family: arial;
+			font-color: red;
+			border-collapse: seperate;
+			background-color: rgba(0,0,0,0.6);
+			float: left;
+			margin: 0px 0px 0px 450px;
+		}
+		td{
+
+			border: 1px solid #000000;
+			padding: 5px;
+			color: blue;
+		}
+		form{
+			padding: 20px;
+			color: white;
+		}
+		.box input[type="email"],.box input[type="phone"],.box input[type="text"],.box input[type="date"]   {
+			padding: 10px;
+			text-align: center;
+			background-color: rgba(0,0,0,0.6);
+			border-color: rgba(0,0,0,0.6);
+			/*border-radius: 20px;*/
+			color: #ffffff;
+		}
+		.box input[type="submit"]{
+			padding: 5px;
+			text-align: center;
+			background-color: rgba(0,0,0,0.6);
+			/*cursor: pointer;*/
+			color: #ffffff;
+		}
+		.box input[type="submit"]:hover{
+			background:red;
+		}
+		#choise{
+			width: 15rem;
+			background: rgba(255,255,255,0.2);
+			padding: 10px;
+			border: 1px solid #000000;
+			color: black;
+			border-radius: 4px;
+			align-items: center;
+			font-size: 1rem;
+
+
+		}

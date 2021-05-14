@@ -1,0 +1,47 @@
+.tab{
+background-color: rgba(0,0,0,0.1) ;
+overflow: hidden;
+border:1px solid 141515;
+color: black;
+padding: 20px 20px 20px 20px;
+}
+.tab button{
+background-color: inherit;
+color : black;
+border:#141515;
+outline: #141515;
+cursor: pointer;
+padding: 5px 5px;
+transition: 0.3s;
+}
+
+.tablinks{
+float: right;
+padding: 10px 100px 10px 10px;
+margin: 0px 0px 0px 100px;
+}
+.tab a:hover{
+background-color: rgba(0,0,0,0.5);
+}
+.topnav a.active{
+background-color: #ccc;
+}
+a
+{
+	color: #000000;
+	float: left;
+}
+img{
+	float: left;
+}
+.aa{
+	width: 1250;
+}
+.table
+{
+	border-width: 5px;
+	border-color: red;
+	background-color: rgba(0,0,0,0);
+	margin: 1px 0px 0px 0px;
+	
+}

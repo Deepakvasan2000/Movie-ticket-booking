@@ -1,0 +1,25 @@
+body{
+	background-image: url('admin.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	}
+#row{
+	color: white;
+	text-align: center;
+}
+th
+{
+	color: white;
+	text-align: center;
+}
+table
+{
+	font-family: arial;
+	font-color: red;
+
+	background-color: rgba(0,0,0,0.6);
+	margin: 160px 500px 0px 400px;
+	 
+}
